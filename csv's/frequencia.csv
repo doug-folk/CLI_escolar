@@ -1,0 +1,5 @@
+aluno_id,turma_id,data,presente
+1,1,2025-06-01,True
+2,2,2025-06-01,False
+3,3,2025-06-01,True
+1,1,2025-06-03,False
